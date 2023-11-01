@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Code Scanner</string>
+    <string name="title_activity_code_gen">CodeGen</string>
+</resources>
